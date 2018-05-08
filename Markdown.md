@@ -7,7 +7,7 @@ Il a plusieurs interêts:
 
 Sa source principale d'inspiration vient du format simple du courrier electronique (en mode texte). 
 
-!(http://media.giphy.com/media/B832xEo8L4BeU/giphy.gif)
+![ryan](http://media.giphy.com/media/B832xEo8L4BeU/giphy.gif)
 
 
 
