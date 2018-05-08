@@ -64,6 +64,6 @@ Ou en ajoutant des paramètres. Le texte à afficher est alors indiqué entre cr
 
 
 [Qu'est ce que le Markdown](Markdown.md)
-[Read me](README.me)
+[Read me](README.md)
 
 
