@@ -12,7 +12,7 @@ Utilisez la syntaxe suivante en metant une description de l'image entre [] Ensui
 
 ![Deadpool](http://media.comicbook.com/2017/07/deadpool-2-movie-pansexual-deadpool-1012668.jpg)
 
-##Liste imbriquée
+## Liste imbriquée
 
 Pour faire une liste à puce ou ordonné imbriquées, il faut reprendre la même procédure que pour les autres liste à la différence qu'il faut rajouter de la même manière sous une des puces :
 
