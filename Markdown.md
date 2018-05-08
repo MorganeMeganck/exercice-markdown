@@ -37,5 +37,9 @@ Sa source principale d'inspiration vient du format simple du courrier electroniq
 
 https://github.com/MorganeMeganck/exercice-markdown/blob/commun/InventaireMarkdown.md
 
+[Lisez-moi](README.md)
+[Inventaire du Markdown](InventaireMarkdown.md)
+
+
 
 
