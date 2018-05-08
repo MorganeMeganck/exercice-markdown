@@ -28,14 +28,17 @@ Pour faire une liste à puce ou ordonné imbriquées, il faut reprendre la même
 
 ### Les Headers
 
+
 Pour mettre un titre, on rajoute :
 
-Un '#' pour l'équivalent `<h1>` tag
-Deux '#' pour l'équivalent '<h2>' tag
+Un # pour l'équivalent `<h1>` tag
+Deux # pour l'équivalent `<h2>` tag
 Ainsi de suite jusqu'à
-Six '#' pour l'équivalent '<h6>' tag
+Six # pour l'équivalent `<h6>` tag
 
-Les liens
+
+### Les liens
+
 
 Il y a deux façons d’afficher un lien. De manière automatique en encadrant un lien par des chevrons. Il est alors cliquable et affiche l’url indiquée entre chevrons. 
 
