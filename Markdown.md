@@ -1,19 +1,21 @@
 
-# Qu'est ce que le Markdown?
 
-<html>
+`<html>
 <head>
 
   <style>
     body {background-color: white;}
-    h1 {color: purple;}    
+    h1 {color: purple;} 
   
   </style>
-</head>  
+</head> 
 <body>
+</body>
+</html>`
 
-<h1> Markdown est un langage de balisage léger créé par John Gruber en 2004
-Il a plusieurs interêts: </h1> 
+# Qu'est ce que le Markdown
+## Markdown est un langage de balisage léger créé par John Gruber en 2004
+Il a plusieurs interêts:
 
 
 * Offrir une synthaxe facile à lire et à écrire 
@@ -22,8 +24,7 @@ Il a plusieurs interêts: </h1>
 
 Sa source principale d'inspiration vient du format simple du courrier electronique (en mode texte). 
   
-</body>
-</html>
+
 
 
 
