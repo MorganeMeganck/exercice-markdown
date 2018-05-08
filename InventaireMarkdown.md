@@ -18,12 +18,12 @@ Pour faire une liste à puce ou ordonné imbriquées, il faut reprendre la même
 
 1. Mon premier object
 2. Mon deuième object
-   1. Mon deuxième object bis
-   2. Mon deuxième object trier
+   * Mon deuxième object bis
+   * Mon deuxième object trier
 3. Mon troisième object
 4. Mon quatrième object
-   1. Mon quatrième object bis
-   2. Mon quatrième object trier
+   * Mon quatrième object bis
+   * Mon quatrième object trier
 
 
 ### Les Headers
