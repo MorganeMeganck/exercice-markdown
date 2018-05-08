@@ -1,6 +1,7 @@
 
 
-`<html>
+~~~html
+<a href=“#”>
 <head>
 
   <style>
@@ -10,8 +11,9 @@
   </style>
 </head> 
 <body>
-</body>
-</html>`
+</body></a>
+~~~
+
 
 # Qu'est ce que le Markdown
 ## Markdown est un langage de balisage léger créé par John Gruber en 2004
