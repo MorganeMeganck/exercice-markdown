@@ -30,7 +30,7 @@ Pour faire une liste à puce ou ordonné imbriquées, il faut reprendre la même
 
 Pour mettre un titre, on rajoute :
 
-> Un # pour l'équivalent `<h1>` tag
-> Deux # pour l'équivalent `<h2>` tag
-> Ainsi de suite jusqu'à
-> Six # pour l'équivalent `<h6>` tag
+Un # pour l'équivalent `<h1>` tag <addr>
+Deux # pour l'équivalent `<h2>` tag <addr>
+Ainsi de suite jusqu'à <addr>
+Six # pour l'équivalent `<h6>` tag <addr>
