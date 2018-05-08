@@ -1,7 +1,7 @@
 
 <html>
 <head>
-#Qu'est ce que le Markdown
+
   <style>
     body {background-color: white;}
     h1 {color: purple;}    
@@ -9,7 +9,7 @@
   </style>
 </head>  
 <body>
-
+#Qu'est ce que le Markdown?
 <h1> Markdown est un langage de balisage léger créé par John Gruber en 2004
 Il a plusieurs interêts: </h1> 
 
