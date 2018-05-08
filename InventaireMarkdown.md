@@ -59,3 +59,8 @@ Ou en ajoutant des paramètres. Le texte à afficher est alors indiqué entre cr
 
 <a href="http://www.becode.org" title="link to becode">becode</a>
 
+
+[Qu'est ce que le Markdown](Markdown.md)
+[Read me](README.me)
+
+
