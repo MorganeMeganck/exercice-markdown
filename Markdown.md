@@ -1,5 +1,4 @@
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Qu'est ce que le Markdown</title>
